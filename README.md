@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elevenxia
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on interstring things
+- 💞️ I’m looking to collaborate on interesting things
 - 📫 How to reach me -> eleven_xia@qq.com
 
 <!---
